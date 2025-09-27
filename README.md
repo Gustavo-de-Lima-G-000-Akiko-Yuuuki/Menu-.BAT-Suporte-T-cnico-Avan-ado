@@ -4,7 +4,7 @@ Este repositório contém um **script Batch (.bat)** para Windows que centraliza
 O objetivo é fornecer uma interface simplificada para atividades de **suporte técnico avançado** sem a necessidade de memorizar comandos ou navegar manualmente pelas ferramentas.
 
 ---
-
+![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Menu-.BAT-Suporte-T-cnico-Avan-ado/blob/main/imagem.png?raw=true)
 ## 📂 Estrutura do Script
 
 - **Verificação de privilégios de administrador**  
@@ -104,13 +104,5 @@ O objetivo é fornecer uma interface simplificada para atividades de **suporte t
 1. Baixe o arquivo `.bat`.  
 2. Clique com o botão direito → **Executar como administrador**.  
 3. Navegue pelo menu digitando o número da opção desejada.  
-
----
-
-## 👨‍💻 Autor
-
-- **Desenvolvido por:** Wesley Walter  
-- **Ano:** 2025  
-- **Licença:** Livre para uso, modificação e distribuição.  
 
 ---
